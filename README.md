@@ -2,13 +2,11 @@
 
 An interactive Spotify Dashboard built using **Microsoft Power BI** to analyze Spotify streaming data and music trends. The dashboard provides insights into total streams, popular artists, track characteristics, release trends, and audio features through interactive visualizations.
 
----
 
 ## 📌 Project Overview
 
 This project focuses on analyzing Spotify music data using Power BI. It helps users explore streaming statistics, compare audio features, identify top-performing tracks, and understand music trends through an interactive dashboard.
 
----
 
 ## ✨ Features
 
@@ -29,7 +27,6 @@ This project focuses on analyzing Spotify music data using Power BI. It helps us
   - Artist Name
   - Mode
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -39,15 +36,11 @@ This project focuses on analyzing Spotify music data using Power BI. It helps us
 - CSV Dataset
 - Data Visualization
 
----
 
 ## 📂 Dashboard Preview
 
-<img width="100%" alt="Spotify Dashboard" src="dashboard.png">
+<img width="990" height="555" alt="image" src="https://github.com/user-attachments/assets/3c00909d-0dd6-4bbd-9946-4488250cf40b" />
 
-> Replace **dashboard.png** with your uploaded dashboard screenshot.
-
----
 
 ## 📈 Dashboard Insights
 
@@ -58,7 +51,6 @@ This project focuses on analyzing Spotify music data using Power BI. It helps us
 - Highlights the most popular artists.
 - Enables dynamic filtering for better analysis.
 
----
 
 ## 📁 Files Included
 
@@ -67,7 +59,6 @@ This project focuses on analyzing Spotify music data using Power BI. It helps us
 - Dashboard Screenshot
 - README.md
 
----
 
 ## 🚀 How to Use
 
@@ -76,23 +67,9 @@ This project focuses on analyzing Spotify music data using Power BI. It helps us
 3. Load the dataset if required.
 4. Explore the interactive dashboard using the available filters.
 
----
 
-## 📚 Learning Source
-
-This dashboard was created for learning purposes by following a Power BI tutorial and customizing the visuals and theme.
-
-Tutorial:
-https://youtu.be/k8N_Eg1xl18
-
----
 
 ## 👩‍💻 Author
 
-**Ramandeep Kaur**
+*Ramandeep Kaur*
 
-Engineering Student | Data Analytics Learner
-
----
-
-⭐ If you like this project, consider giving it a star!
